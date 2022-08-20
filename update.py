@@ -16,7 +16,7 @@ def extract_manifests(env):
 
         with ZipFile(f"{dirpath}/latest.zip") as z:
             plugin_name = dirpath.split("/")[-1]
-            manifest = json.loads(z.read(f"{plugin_name}.json").decode())
+            manifest = json.loads(z.read(f"{plugin_name}.json").decode('utf-8-sig'))
             manifests[manifest["InternalName"]] = manifest
 
     return manifests
