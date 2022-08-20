@@ -1,4 +1,4 @@
-{
+﻿{
   "Author": "FFXIVITA",
   "Name": "XIVITA Startup Commands",
   "InternalName": "XIVITAStartupCommands",
@@ -8,5 +8,6 @@
   "ApplicableVersion": "any",
   "Tags": ["startup", "login", "commands", "chat"],
   "DalamudApiLevel": 6,
-  "Punchline": "Avete mai pensato di automatizzare il vostro post-login?"
+  "Punchline": "Avete mai pensato di automatizzare il vostro post-login?",
+  "RepoUrl": "https://ffxivita.it"
 }
