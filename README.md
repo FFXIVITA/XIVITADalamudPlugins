@@ -10,4 +10,4 @@ I plugin creati dal team di FFXIVITA e anche collaboratori sono segnati  [qui](h
 
 Aggiungi questo URl alla lista delle repo.
 
-`https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json`
+`https://ffxivita.github.io/FFXIVITADalamudPlugins/dist/pluginmaster.json`
