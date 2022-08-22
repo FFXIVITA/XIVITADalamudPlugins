@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.1.0.3",
+    "AssemblyVersion": "1.1.0.4",
     "Author": "FFXIVITA",
     "Changelog": null,
     "DalamudApiLevel": 6,
@@ -13,10 +13,10 @@
     "InternalName": "XIVITAStartupCommands",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661184969,
+    "LastUpdated": 1661185939,
     "Name": "XIVITA Startup Commands",
     "Punchline": "Avete mai pensato di automatizzare il vostro post-login?",
-    "RepoUrl": "https://ffxivita.it",
+    "RepoUrl": "https://github.com/DarkArtek/XIVITAStartupCommands",
     "Tags": [
       "startup",
       "login",
