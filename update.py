@@ -139,14 +139,8 @@ def generate_markdown(manifests):
             continue
 
         name = f"[{manifest['Name']}]({manifest['RepoUrl']})"
-        if manifest["DownloadLinkInstall"] != manifest["DownloadLinkTesting"]:
-            stable = f"**[{manifest['AssemblyVersion']}]({manifest['DownloadLinkInstall']})**"
-        else:
-            stable = "-"
-        if manifest["TestingAssemblyVersion"]:
-            testing = f"⚠️ [{manifest['TestingAssemblyVersion']}]({manifest['DownloadLinkTesting']})"
-        else:
-            testing = "-"
+        stable = f"**[{manifest['AssemblyVersion']}]({manifest['DownloadLinkInstall']})**"
+        testing = f"⚠️ [{manifest['TestingAssemblyVersion']}]({manifest['DownloadLinkTesting']})"
         last_updated = datetime.fromtimestamp(manifest["LastUpdated"], tz=ita2).strftime("%d-%m-%Y")
         version = f"{stable} / {testing} ({last_updated})"
         author = manifest["Author"]
