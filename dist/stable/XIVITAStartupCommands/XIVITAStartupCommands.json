@@ -1,13 +1,19 @@
-﻿{
+{
   "Author": "FFXIVITA",
   "Name": "XIVITA Startup Commands",
   "InternalName": "XIVITAStartupCommands",
+  "AssemblyVersion": "1.1.0.6",
   "Description": "Esegue comandi testuali come emote e macro al login.",
-  "AssemblyVersion": "1.1.0.5",
-  "ImageUrls": [],
   "ApplicableVersion": "any",
-  "Tags": ["startup", "login", "commands", "chat"],
-  "DalamudApiLevel": 6,
-  "Punchline": "Avete mai pensato di automatizzare il vostro post-login?",
-  "RepoUrl": "https://github.com/DarkArtek/XIVITAStartupCommands"
+  "RepoUrl": "https://github.com/DarkArtek/XIVITAStartupCommands",
+  "Tags": [
+    "startup",
+    "login",
+    "commands",
+    "chat"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "Avete mai pensato di automatizzare il vostro post-login?"
 }
