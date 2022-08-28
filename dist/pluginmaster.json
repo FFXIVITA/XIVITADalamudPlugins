@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.1.0.1",
     "Author": "DarkArtek",
     "Changelog": null,
     "DalamudApiLevel": 7,
@@ -13,16 +13,14 @@
     "InternalName": "XIVITASanctuary",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661713594,
+    "LastUpdated": 1661720006,
     "LoadPriority": 0,
     "Name": "XIVITASanctuary",
     "Punchline": "Il migliore strumento per la vostra isola!",
     "RepoUrl": "https://github.com/DarkArtek/XIVITASanctuary",
     "Tags": [
       "Guide",
-      "Island Sanctuary",
-      "Crafting",
-      "Gathering"
+      "XIVITA"
     ],
     "TestingAssemblyVersion": null
   },
@@ -40,7 +38,7 @@
     "InternalName": "XIVITAStartupCommands",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661713594,
+    "LastUpdated": 1661720006,
     "LoadPriority": 0,
     "Name": "XIVITA Startup Commands",
     "Punchline": "Avete mai pensato di automatizzare il vostro post-login?",
