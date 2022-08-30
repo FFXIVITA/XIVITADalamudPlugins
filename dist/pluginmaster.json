@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "1.1.0.7",
+    "AssemblyVersion": "1.1.0.8",
     "Author": "DarkArtek",
     "Changelog": null,
     "DalamudApiLevel": 7,
@@ -13,7 +13,7 @@
     "InternalName": "XIVITASanctuary",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661872113,
+    "LastUpdated": 1661877604,
     "LoadPriority": 0,
     "Name": "XIVITASanctuary",
     "Punchline": "Il migliore strumento per la vostra isola!",
@@ -38,7 +38,7 @@
     "InternalName": "XIVITAStartupCommands",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661872113,
+    "LastUpdated": 1661877604,
     "LoadPriority": 0,
     "Name": "XIVITA Startup Commands",
     "Punchline": "Avete mai pensato di automatizzare il vostro post-login?",
