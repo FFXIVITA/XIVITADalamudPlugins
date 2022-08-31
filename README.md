@@ -9,7 +9,6 @@ I plugin creati dal team di FFXIVITA e anche collaboratori sono segnati  [qui](h
 ## Repo URL
 
 Aggiungi questo URl alla lista delle repo.
-
-![FFXIVITA Dalamud Repo](assets/img/repo_ffxivita.png)
+<img src="assets/img/repo_ffxivita.png" alt="XIVITADalamudPlugins" />
 
 `https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json`
