@@ -1,4 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "ignorePresets": ["github>FFXIVITA/renovate-config:schedule"],
   "extends": ["github>FFXIVITA/renovate-config"]
 }
