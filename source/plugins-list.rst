@@ -7,3 +7,9 @@ Lista dei Plugins
 
 .. include:: ../dist/README.md
     :parser: myst_parser.docutils_
+
+
+
+
+.. centered::
+    **La seguente lista viene aggiornata in maniera automatica ogni qual volta viene caricato un nuovo plugin dentro il nostro repository**

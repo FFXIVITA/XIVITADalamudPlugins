@@ -3,6 +3,9 @@
 :og:description: Un semplice ma efficace plugin di esempio da poter scaricare e modificare a piacimento.
 
 
+
+
+
 Test Plugin
 ===========
 
@@ -30,8 +33,6 @@ Niente di più, niente di meno.
 
 Prossimi Passi
 --------------
-
-.. Build__:
 
 Compilazione
 ~~~~~~~~~~~~

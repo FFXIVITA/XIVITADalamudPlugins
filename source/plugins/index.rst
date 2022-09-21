@@ -2,7 +2,6 @@
 
 :og:description: In questa sezione sono conservate tutte le documentazioni dei plugins da noi sviluppati.
 
-.. XIVITAPluginIndex
 
 Documentazione Plugins
 ======================
@@ -12,11 +11,10 @@ noi sviluppati.
 
 Usate il menù sottostante per accedere alle pagine.
 
-Sotto Sezioni
--------------
 
 ..  toctree::
+        :maxdepth: 1
         :titlesonly:
-        :maxdepth: 2
+        :caption: Lista dei Plugin
 
         Plugin di Test <test_plugin>
