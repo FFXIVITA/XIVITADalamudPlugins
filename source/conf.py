@@ -43,5 +43,17 @@ today_fmt = '%d-%m-%Y %H:%M'
 
 html_theme = 'sphinx_ahd_theme'
 html_static_path = ['_static']
+html_theme_options = dict(
+    project_name="XIVITA Dalamud Plugins",
+    logo_alt="FFXIVITA",
+    logo="img/ffxivita.svg",
+    logo_width=45,
+    logo_url="/",
+    footer_links=",".join([
+        "FFXIVITA|https://ffxivita.it/",
+        "Lista Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/",
+        "Discord|https://discord.gg/ffxivita",
+    ]),
+    header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/",
 
 github_doc_root = 'https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source'
