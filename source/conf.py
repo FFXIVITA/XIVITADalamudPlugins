@@ -54,6 +54,7 @@ html_theme_options = dict(
         "Lista Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/",
         "Discord|https://discord.gg/ffxivita",
     ]),
-    header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/",
+    header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/", # noqa
+    github_doc_root="https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source"
+)
 
-github_doc_root = 'https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source'
