@@ -19,17 +19,17 @@ Aggiungi questo URL alla lista delle repo.
 ------------------------------------------
 |
 
+.. centered::
+   **https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json**
+
+|
+|
+
 .. image:: https://ffxivita.github.io/XIVITADalamudPlugins/assets/img/repo_ffxivita.png
 
 |
 |
 
-.. raw:: html
-
-   <code>https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json</code>
-
-|
-|
 
 Pagine
 =======

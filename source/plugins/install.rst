@@ -7,8 +7,12 @@
 Installare i Plugin
 ===================
 
-Per poter installare i plugins, dovrete usare ovviamente XIVLauncher e inserire l'url del nostro repository nella sezione apposita,
-come spiegato nella pagina principale di questa sezione.
+Per poter installare i plugins, dovrete usare ovviamente XIVLauncher e inserire l'url del nostro repository che vi elenchiamo di seguito:
+
+|
+
+.. centered::
+   **https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json**
 
 |
 
