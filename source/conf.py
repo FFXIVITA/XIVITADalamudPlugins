@@ -24,7 +24,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.viewcode',
     'sphinx_ahd_theme',
-    'myst_parser'
+    'myst_parser',
+    'sphinxext.opengraph'
 ]
 templates_path = ['_templates']
 source_suffix = {
@@ -57,3 +58,5 @@ html_theme_options = dict(
     header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://plugins.ffxivita.it",
     github_url="https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source/"
 )
+ogp_site_url = "https://plugins.ffxivita.it/"
+ogp_image = "https://ffxivita.it/wp-content/uploads/2021/04/9ba14597.jpeg"
