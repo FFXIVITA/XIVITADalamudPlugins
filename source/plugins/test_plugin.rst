@@ -11,7 +11,7 @@ Test Plugin
 
 Un semplice plugin d’esempio per Dalamud.
 
-Non è stato pensato per essere per essere il più semplice possibile ma è
+Non è stato pensato per essere il più semplice possibile ma è
 stato pensato per cercare di coprire tutto quello che potresti fare con
 Dalamud.
 
