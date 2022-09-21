@@ -1,27 +1,41 @@
-FFXIVITADalamudPlugins
-======================
+FFXIVITA Dalamud Plugins
+=========================
 
 Questa è un repository di terze parti di plugin che possono essere usati
 con Dalamud / XivLauncher.
 
-Repo URL
---------
 
 Aggiungi questo URl alla lista delle repo.
+------------------------------------------
+|
+
+.. image:: https://ffxivita.github.io/XIVITADalamudPlugins/assets/img/repo_ffxivita.png
+
+|
+|
 
 .. raw:: html
 
    <code>https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json</code>
 
+|
+|
 
-.. toctree::
-   :maxdepth: 2
-   :titlesonly:
-   plugins
+Pagine
+=======
+
+..  toctree::
+        :titlesonly:
+        :maxdepth: 2
+
+        plugins
 
 
+|
+|
 
-Indices and tables
+
+Indici e tabelle
 ==================
 
 * :ref:`genindex`

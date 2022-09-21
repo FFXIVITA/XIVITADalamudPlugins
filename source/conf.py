@@ -51,10 +51,9 @@ html_theme_options = dict(
     logo_url="/",
     footer_links=",".join([
         "FFXIVITA|https://ffxivita.it/",
-        "Lista Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/",
+        "Lista Plugin|https://plugins.ffxivita.it",
         "Discord|https://discord.gg/ffxivita",
     ]),
-    header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://ffxivita.github.io/XIVITADalamudPlugins/", # noqa
-    github_doc_root="https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source"
+    header_links="Sito Ufficiale|https://ffxivita.it, Directory Plugin|https://plugins.ffxivita.it",
+    github_url="https://github.com/ffxivita/XIVITADalamudPlugins/blob/main/source/"
 )
-

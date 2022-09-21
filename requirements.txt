@@ -2,3 +2,4 @@ sphinx
 sphinx-intl
 myst_parser
 sphinx-ahd-theme
+docutils
