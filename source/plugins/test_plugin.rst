@@ -49,31 +49,31 @@ Compilazione
 Usalo in Game
 ~~~~~~~~~~~~~
 
-Qui hai sostanzialmente due strade: 1. Cartella Dev \* Apri il gioco e
-usa il comando ``/xlsettings`` nella finestra di chat o ``xlsettings``
-se sei nella console Dalamud, in modo da aprire le impostazioni. \* Vai
-alla voce ``Experimental`` o ``Sperimentale`` (dipende dalla lingua in
-cui hai configurato Dalamud) e alla voce Dev Plugin Locations inserisci
-il percorso completo al file TestPlugin.dll . \* Ora usa il comando
-``/xlplugins`` se sei nella finestra di chat o il comando ``xlplugins``
-se sei dentro la console di Dalamud per aprire l’installatore di Plugin.
-\* Vai alla voce ``Dev Tools`` e infine alla voce
-``Installed Dev Plugins`` . Il TestPlugin dovrebbe essere visbile.
-**Attivalo**. \* Dovresti ora essere in grado di usare il comando
-``/testcommand`` (chat) o ``testcommand`` se sei da console di Dalamud.
+**Qui hai sostanzialmente due strade**:
+
+1. Cartella Dev
+
+    - Apri il gioco e usa il comando ``/xlsettings`` nella finestra di chat o ``xlsettings``
+       se sei nella console Dalamud, in modo da aprire le impostazioni.
+    - Vai alla voce ``Experimental`` o ``Sperimentale`` (dipende dalla lingua in
+      cui hai configurato Dalamud) e alla voce Dev Plugin Locations inserisci
+      il percorso completo al file TestPlugin.dll .
+    - Ora usa il comando ``/xlplugins`` se sei nella finestra di chat o il comando ``xlplugins``
+      se sei dentro la console di Dalamud per aprire l’installatore di Plugin.
+    - Vai alla voce ``Dev Tools`` e infine alla voce
+      ``Installed Dev Plugins`` . Il TestPlugin dovrebbe essere visbile. **Attivalo**.
+    - Dovresti ora essere in grado di usare il comando ``/testcommand`` (chat) o ``testcommand`` se sei da console di Dalamud.
 
 2. Repo di FFXIVITA
 
-   -  Apri il gioco e usa il comando ``/xlsettings`` nella finestra di
-      chat o ``xlsettings`` se sei nella console Dalamud, in modo da
-      aprire le impostazioni.
-   -  Vai alla voce ``Experimental`` o ``Sperimentale`` (dipende dalla
-      lingua in cui hai configurato Dalamud)
-   -  Inserisci l’url al nostro repository, `come mostrato in questa
-      guida <https://plugins.ffxivita.it>`__
-   -  Una volta aggiunto, Dalamud ricaricherà la lista dei plugin.
-   -  Cerca la parola XIVITA nella finesta di ricerca per trovare non
-      solo questo plugin, ma anche tutti gli altri.
+    -  Apri il gioco e usa il comando ``/xlsettings`` nella finestra di
+       chat o ``xlsettings`` se sei nella console Dalamud, in modo da
+       aprire le impostazioni.
+    -  Vai alla voce ``Experimental`` o ``Sperimentale`` (dipende dalla
+       lingua in cui hai configurato Dalamud)
+    -  Inserisci l’url al nostro repository, `come mostrato in questa guida <https://plugins.ffxivita.it>`__
+    -  Una volta aggiunto, Dalamud ricaricherà la lista dei plugin.
+    -  Cerca la parola XIVITA nella finesta di ricerca per trovare non solo questo plugin, ma anche tutti gli altri.
 
 Rinconfiguralo in base alle tue esigenze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
