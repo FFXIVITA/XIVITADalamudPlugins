@@ -1,0 +1,17 @@
+{
+  "Author": "ffxivita",
+  "Name": "Test Plugin",
+  "InternalName": "TestPlugin",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "un plugin che elenca tutti i comandi disponibili",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ffxivita/testplugin",
+  "Tags": [
+    "XIVITA",
+    "test"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "Un plugin di test. Molto utile"
+}
