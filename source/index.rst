@@ -38,8 +38,9 @@ Pagine
         :titlesonly:
         :maxdepth: 2
 
-        plugins
-        plugins/install
+        Lista dei Plugin <plugins>
+        Documentazione Plugins <plugins/index>
+        Installazione dei Plugins <plugins/install>
 
 |
 |
