@@ -4,7 +4,6 @@
 :og:description: Questa é un repository di terze parti creati dallo staff di FFXIVITA e dalla community italiana.
 
 
-# Landing Page
 
 .. highlight:: html
 
