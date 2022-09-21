@@ -1,7 +1,15 @@
+:og:title: FFXIVITA Directory Plugin
+
+
+:og:description: Questa é un repository di terze parti creati dallo staff di FFXIVITA e dalla community italiana.
+
+
+.. highlight:: html
+
 FFXIVITA Dalamud Plugins
 =========================
 
-Questa è un repository di terze parti di plugin che possono essere usati
+Questa é un repository di terze parti di plugin che possono essere usati
 con Dalamud / XivLauncher.
 
 
@@ -39,5 +47,4 @@ Indici e tabelle
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`

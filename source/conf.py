@@ -61,3 +61,4 @@ html_theme_options = dict(
 )
 ogp_site_url = "https://plugins.ffxivita.it/"
 ogp_image = "https://ffxivita.it/wp-content/uploads/2021/04/9ba14597.jpeg"
+ogp_description_length = 500
