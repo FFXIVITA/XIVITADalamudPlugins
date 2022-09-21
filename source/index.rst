@@ -13,7 +13,7 @@ Questa é un repository di terze parti di plugin che possono essere usati
 con Dalamud / XivLauncher.
 
 
-Aggiungi questo URl alla lista delle repo.
+Aggiungi questo URL alla lista delle repo.
 ------------------------------------------
 |
 
