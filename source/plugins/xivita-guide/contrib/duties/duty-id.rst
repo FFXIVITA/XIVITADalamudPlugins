@@ -1,3 +1,13 @@
+:og:title: Lista ID
+
+:og:description: Pagina contentente tutti gli ID usati dal plugin XIVGuide.
+
+
+.. highlight:: c#
+
+Lista degli ID
+==============
+
 .. code-block:: csharp
     
     enum DutyType

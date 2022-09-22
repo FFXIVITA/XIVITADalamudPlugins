@@ -18,3 +18,4 @@ Usate il menù sottostante per accedere alle pagine.
         :caption: Lista dei Plugin
 
         Plugin di Test <test_plugin>
+        XIVITAGuide <xivita-guide/index>

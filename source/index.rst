@@ -30,11 +30,4 @@ Aggiungi questo URL alla lista delle repo.
 |
 
 
-.. toctree::
-        :hidden:
-
-        plugins/test_plugin
-
-
-
 .. include:: contents.rst
