@@ -62,6 +62,8 @@ Lista degli ID
         AddSpawn = 7,
         DPSCheck = 8,
         Cleave = 9,
-        Other = 10
+        Other = 10,
+        Gaze = 11,
+        Puddle = 12
     }
 
