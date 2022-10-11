@@ -18,7 +18,7 @@ Aggiungi questo URL alla lista delle repo.
 ------------------------------------------
 |
 
-    **https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json**
+**https://ffxivita.github.io/XIVITADalamudPlugins/dist/pluginmaster.json**
 
 
 |
