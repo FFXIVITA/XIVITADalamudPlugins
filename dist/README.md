@@ -3,13 +3,7 @@
 | Nome | Versione | Autore | Descrizione |
 |------|----------|--------|-------------|
 | [Test Plugin](https://github.com/ffxivita/testplugin) | **[1.0.0.2](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/TestPlugin/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/TestPlugin/latest.zip) (11-11-2022) | ffxivita | Un plugin di test. Molto utile<br>un plugin che elenca tutti i comandi disponibili<br>**\#XIVITA** **\#test** |
-| [XIVITAGuide](https://github.com/ffxivita/XIVITAGuide) | **[1.5.0.9](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip) (11-11-2022) | FFXIVITA | XIVITA Guide è un plugin che permette ai giocatori di accedere facilmente a delle guide scritte per i vari content.<br>Punti Chiave:
- Apre la guida (se presente) in maniera automatica quando si entra in duty.
-Tabella delle meccaniche con funzionalità di mostra / nascondi.
-Le guide possono essere localizzate anche in diverse lingue.
-Le guide si aggiornano in maniera indipendente dal plugin stesso.
-Protezione spoiler integrata.
-E tanto altro.<br>**\#Guide** **\#XIVITA** |
+| [XIVITAGuide](https://github.com/ffxivita/XIVITAGuide) | **[1.5.0.9](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip) (11-11-2022) | FFXIVITA | XIVITA Guide è un plugin che permette ai giocatori di accedere facilmente a delle guide scritte per i vari content.<br>Punti Chiave: 1) Apre la guida (se presente) in maniera automatica quando si entra in duty. 2)Tabella delle meccaniche con funzionalità di mostra / nascondi. 3)Le guide possono essere localizzate anche in diverse lingue. 4)Le guide si aggiornano in maniera indipendente dal plugin stesso. 5)Protezione spoiler integrata. E tanto altro.<br>**\#Guide** **\#XIVITA** |
 | [XIVITASanctuary](https://github.com/DarkArtek/XIVITASanctuary) | **[1.1.0.10](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITASanctuary/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITASanctuary/latest.zip) (11-11-2022) | DarkArtek | Il migliore strumento per la vostra isola!<br>Un plugin che migliora la vostra esperienza in  Island Sanctuary. Cosa Fa:
 
 - Vi segnala gli item da raccogliere nella mappa
