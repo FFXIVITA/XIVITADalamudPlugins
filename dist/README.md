@@ -1,4 +1,4 @@
-# FFXIVITADalamudPlugins
+# FFXIVITA Dalamud Plugins
 
 | Nome | Versione | Autore | Descrizione |
 |------|----------|--------|-------------|
