@@ -3,7 +3,7 @@
   "Name": "XIVITAGuide",
   "InternalName": "XIVITAGuide",
   "AssemblyVersion": "1.5.0.9",
-  "Description": "Apre la guida (se presente) in maniera automatica quando si entra in duty.Tabella delle meccaniche con funzionalità di mostra / nascondi.Le guide possono essere localizzate anche in diverse lingue. Le guide si aggiornano in maniera indipendente dal plugin stesso.Protezione spoiler integrata. E tanto altro.",
+  "Description": "Apre la guida (se presente) in maniera automatica quando si entra in duty. Tabella delle meccaniche con funzionalità di mostra / nascondi.Le guide possono essere localizzate anche in diverse lingue. Le guide si aggiornano in maniera indipendente dal plugin stesso.Protezione spoiler integrata. E tanto altro.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ffxivita/XIVITAGuide",
   "Tags": [
