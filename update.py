@@ -125,7 +125,7 @@ def dump_master(manifests):
 
 def generate_markdown(manifests):
     lines = [
-        "# FFXIVITADalamudPlugins",
+        "# FFXIVITA Dalamud Plugins",
         "",
         "| Nome | Versione | Autore | Descrizione |",
         "|------|----------|--------|-------------|"
