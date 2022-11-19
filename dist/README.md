@@ -3,6 +3,15 @@
 | Nome | Versione | Autore | Descrizione |
 |------|----------|--------|-------------|
 | [Test Plugin](https://github.com/ffxivita/testplugin) | **[1.0.0.2](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/TestPlugin/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/TestPlugin/latest.zip) (19-11-2022) | ffxivita | Un plugin di test. Molto utile<br>un plugin che elenca tutti i comandi disponibili<br>**\#XIVITA** **\#test** |
-| [XIVITAGuide](https://github.com/ffxivita/XIVITAGuide) | **[1.5.0.13](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip) (19-11-2022) | FFXIVITA | XIVITA Guide è un plugin che permette ai giocatori di accedere facilmente a delle guide scritte per i vari content.<br>Punti Chiave: 1) Apre la guida (se presente) in maniera automatica quando si entra in duty. 2)Tabella delle meccaniche con funzionalità di mostra / nascondi. 3)Le guide possono essere localizzate anche in diverse lingue. 4)Le guide si aggiornano in maniera indipendente dal plugin stesso. 5)Protezione spoiler integrata. E tanto altro.<br>**\#Utility** **\#Guide** **\#XIVITA** |
+| [XIVITA Guide](https://github.com/ffxivita/XIVITAGuide) | **[1.5.0.14](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAGuide/latest.zip) (19-11-2022) | FFXIVITA | XIVITA Guide è un plugin che permette ai giocatori di accedere facilmente a delle guide scritte per i vari content<br>Plugin che permette ai giocatori di accedere facilmente a delle guide scritte per i vari content come Dungeon, Trials and Alliance Raids.
+
+Punti Chiave:
+- Apre la guida (se presente) in maniera automatica quando si entra in duty
+- Interfaccia scalabile e adattabile a tutti gli schermi
+- una modalità di guida testuale breve per chi è di fretta
+- Protezione Anti-Spoiler
+- Editor guide integrato
+- Integrazioni coi vostri plugin preferiti
+& e molto altro!<br>**\#Utility** **\#Duty Finder** **\#Duties** **\#Guide** **\#XIVITA** |
 | [XIVITASanctuary](https://github.com/ffxivita/XIVITASanctuary) | **[1.1.1.0](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITASanctuary/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITASanctuary/latest.zip) (19-11-2022) | DarkArtek | Il migliore strumento per la vostra isola!<br>Un plugin che migliora la vostra esperienza in  Island Sanctuary. Cosa Fa: 1) Vi segnala gli item da raccogliere nella mappa 2) todo-list per Gathering & crafting, mostrando quali di materiali avrete bisogno 3) (pianificato) Miglior vista dell'inventario. 4) Widget per accedere velocemente alle informazioni.<br>**\#Guide** **\#XIVITA** |
 | [XIVITA Startup Commands](https://github.com/DarkArtek/XIVITAStartupCommands) | **[1.1.0.6](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAStartupCommands/latest.zip)** / ⚠️ [None](https://ffxivita.github.io/XIVITADalamudPlugins/dist/stable/XIVITAStartupCommands/latest.zip) (19-11-2022) | FFXIVITA | Avete mai pensato di automatizzare il vostro post-login?<br>Esegue comandi testuali come emote e macro al login.<br>**\#startup** **\#login** **\#commands** **\#chat** |
